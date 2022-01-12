@@ -28,3 +28,6 @@ Shapefiles: https://www.geofabrik.de/data/shapefiles.html
 2. PostGIS
 
 3. QGIS
+
+# MIT License
+This project is covered under MIT License.
